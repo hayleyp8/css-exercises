@@ -14,10 +14,18 @@
     font-weight: bold;
 }
 
-#number3 {
+.number3 {
     font-size: 24px;
 }
 
 /* solution added 
 so instead of using p {}
-you can make that as a class */
+you can make that as a class 
+
+EXTRA SOLUTION 
+- <p class="odd" id = "number3">Number 3 - I'm a class, but cooler!</p>
+- with css including 
+#number3 {
+     font-size: 24px;
+}
+*/
