@@ -1,0 +1,23 @@
+.odd {
+    background-color: rgb(255, 208, 216);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number2 {
+    color: rgb(0, 170, 255);
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(168, 255, 192);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#number3 {
+    font-size: 24px;
+}
+
+/* solution added 
+so instead of using p {}
+you can make that as a class */
